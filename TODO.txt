@@ -1,0 +1,7 @@
+All good in local dev env except 'Places API' could not be enabled from 'rapidapi.com/hub' - billing account payment failure
+so, 'search' functionality in the UI doesn't work.
+
+
+
+Weather API seems to be not rendering any weather icons
+https://community-open-weather-map.p.rapidapi.com/find
